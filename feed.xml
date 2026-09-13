@@ -4,10 +4,17 @@
     <title>Speedrunners &amp; Game Glitch Hunters Hub</title>
     <link>https://speedrunning-glitches-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 11:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 08:30:47 GMT</lastBuildDate>
     <atom:link href="https://speedrunning-glitches-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-    <item>
+        <item>
+      <title>📅 Today's Fresh Pick: Next.js GitHub Discussions (GitHub)</title>
+      <link>https://github.com/vercel/next.js/discussions</link>
+      <guid isPermaLink="false">https://speedrunning-glitches-hub.netlify.app/#speedrunning-glitches-hub-github-20260913-1-2026-09-13</guid>
+      <pubDate>Sun, 13 Sep 2026 08:30:47 GMT</pubDate>
+      <description>Newly verified community added to Speedrunners &amp; Game Glitch Hunters Hub: Active community discussions and RFCs on Next.js architectures, streaming SSR, and edge rendering.</description>
+    </item>
+<item>
       <title>Speedrunners &amp; Game Glitch Hunters Hub Initial Release</title>
       <link>https://speedrunning-glitches-hub.netlify.app/</link>
       <pubDate>Tue, 08 Sep 2026 11:01:09 GMT</pubDate>
