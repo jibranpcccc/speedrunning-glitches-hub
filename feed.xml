@@ -4,10 +4,17 @@
     <title>Speedrunners &amp; Game Glitch Hunters Hub</title>
     <link>https://speedrunning-glitches-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 06:02:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 06:01:56 GMT</lastBuildDate>
     <atom:link href="https://speedrunning-glitches-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                            <item>
+                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://speedrunning-glitches-hub.netlify.app/#speedrunning-glitches-hub-forum-20260922-1-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 06:01:56 GMT</pubDate>
+      <description>Newly verified community added to Speedrunners &amp; Game Glitch Hunters Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
       <link>https://news.ycombinator.com</link>
       <guid isPermaLink="false">https://speedrunning-glitches-hub.netlify.app/#speedrunning-glitches-hub-forum-20260922-1-2026-10-16</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/speedrunning-glitches-hub/#speedrunning-glitches-hub-discord-20260915-1-2026-09-15</guid>
       <pubDate>Tue, 15 Sep 2026 11:17:08 GMT</pubDate>
       <description>Newly verified community added to Speedrunning Glitches Hub: The central real-time community for leaderboard runners, route routing, skip discoveries, memory manipulation, and live marathon commentary.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
-      <link>https://www.reddit.com/r/science/</link>
-      <guid isPermaLink="false">https://speedrunning-glitches-hub.netlify.app/#speedrunning-glitches-hub-reddit-20260915-1-2026-09-15</guid>
-      <pubDate>Tue, 15 Sep 2026 06:01:45 GMT</pubDate>
-      <description>Newly verified community added to Speedrunners &amp; Game Glitch Hunters Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
     </item>
   </channel>
 </rss>
